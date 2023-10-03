@@ -1,0 +1,40 @@
+.item{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(250, 187, 176);
+    color: black;
+    text-align: center;
+    line-height: 50px;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.secondblock{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxblock{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fourthbox{
+display: flex;
+justify-content: center;
+}
+.zagolovok{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: mediumpurple;
+}
+
+.zagolovok{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

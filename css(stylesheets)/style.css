@@ -1,0 +1,3 @@
+@import "reset.css"; /* сбор настроек брауз. ВСЕГДА должен быть первым */
+@import "main(content).css"; /* главн */
+@import "responive.css"
